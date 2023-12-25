@@ -11,4 +11,5 @@ DiscoSL Looks up information about a server from an invite link.
 ## OR
 
 2. Run the code
+
             go run main.go
